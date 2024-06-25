@@ -12,6 +12,8 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="CSS" height="30" width="40" src="https://logos-world.net/wp-content/uploads/2021/10/Python-Emblem.png">
+ 
 </div>
  
 <br>
@@ -24,4 +26,3 @@ Me segue nas redes abaixo!
 Para contato!
 Em breve
 
- <a href = ""><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a>
